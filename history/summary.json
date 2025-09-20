@@ -4,19 +4,17 @@
     "url": "https://331d73b4-3f86-4570-a236-81dd568d35e9-00-3nq6ja60euwy6.sisko.replit.dev/health",
     "icon": "https://icons.duckduckgo.com/ip3/331d73b4-3f86-4570-a236-81dd568d35e9-00-3nq6ja60euwy6.sisko.replit.dev.ico",
     "slug": "telegram-schedule-bot",
-    "status": "up",
-    "uptime": "70.14%",
-    "uptimeDay": "70.14%",
-    "uptimeWeek": "70.14%",
-    "uptimeMonth": "70.14%",
-    "uptimeYear": "70.14%",
-    "time": 1144,
-    "timeDay": 1144,
-    "timeWeek": 1144,
-    "timeMonth": 1144,
-    "timeYear": 1144,
-    "dailyMinutesDown": {
-      "2025-09-20": 12
-    }
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1122,
+    "timeDay": 1122,
+    "timeWeek": 1122,
+    "timeMonth": 1122,
+    "timeYear": 1122,
+    "dailyMinutesDown": {}
   }
 ]

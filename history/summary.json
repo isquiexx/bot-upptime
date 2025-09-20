@@ -1,22 +1,22 @@
 [
   {
     "name": "Telegram Schedule Bot",
-    "url": "https://331d73b4-3f86-4570-a236-81dd568d35e9-00-3nq6ja60euwy6.sisko.replit.dev/uptime-check",
+    "url": "https://331d73b4-3f86-4570-a236-81dd568d35e9-00-3nq6ja60euwy6.sisko.replit.dev/health",
     "icon": "https://icons.duckduckgo.com/ip3/331d73b4-3f86-4570-a236-81dd568d35e9-00-3nq6ja60euwy6.sisko.replit.dev.ico",
     "slug": "telegram-schedule-bot",
-    "status": "down",
-    "uptime": "21.72%",
-    "uptimeDay": "21.72%",
-    "uptimeWeek": "21.72%",
-    "uptimeMonth": "21.72%",
-    "uptimeYear": "21.72%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.33%",
+    "uptimeDay": "0.33%",
+    "uptimeWeek": "0.33%",
+    "uptimeMonth": "0.33%",
+    "uptimeYear": "0.33%",
+    "time": 1109,
+    "timeDay": 1109,
+    "timeWeek": 1109,
+    "timeMonth": 1109,
+    "timeYear": 1109,
     "dailyMinutesDown": {
-      "2025-09-20": 0
+      "2025-09-20": 12
     }
   }
 ]

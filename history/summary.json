@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/331d73b4-3f86-4570-a236-81dd568d35e9-00-3nq6ja60euwy6.sisko.replit.dev.ico",
     "slug": "telegram-schedule-bot",
     "status": "down",
-    "uptime": "7.03%",
+    "uptime": "4.98%",
     "uptimeDay": "1.72%",
-    "uptimeWeek": "7.03%",
-    "uptimeMonth": "7.03%",
-    "uptimeYear": "7.03%",
+    "uptimeWeek": "4.98%",
+    "uptimeMonth": "4.98%",
+    "uptimeYear": "4.98%",
     "time": 1090,
-    "timeDay": 1106,
+    "timeDay": 1091,
     "timeWeek": 1090,
     "timeMonth": 1090,
     "timeYear": 1090,
     "dailyMinutesDown": {
-      "2025-09-21": 769,
+      "2025-09-22": 52,
+      "2025-09-21": 1415,
       "2025-09-20": 804
     }
   }
